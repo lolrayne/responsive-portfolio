@@ -1,0 +1,22 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "description": "Project Title\r One Paragraph of project description goes here",
+  "main": "gitstuff.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolrayne/responsive-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolrayne/responsive-portfolio/issues"
+  },
+  "homepage": "https://github.com/lolrayne/responsive-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
